@@ -55,8 +55,8 @@ MATRIX_MEAN = 2     # 3 * 3 matrix and suport 2 * 2 , 4 * 4
 SOCK_SERVER_ADDR = "127.0.0.1"      # local ip
 
 SOCK_SERVER_PORT = 8686
-SOCK_SEND_TIME = 0.5       # unit : second
-SOCK_SEND_MAX_TIME = 3      # unit : second
+SOCK_SEND_TIME = 0.3       
+SOCK_SEND_MAX_TIME = 3     
 
 # Bind ip and port  to receive data sent by node
 # ip on the same network as node
